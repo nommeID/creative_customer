@@ -1,0 +1,281 @@
+<resources>
+    <string name="app_name" translatable="false">Creative Vendor</string>
+    <string name="permission_pick_rationale" translatable="false">READ_EXTERNAL_STORAGE diperlukan izin untuk memilih gambar.</string>
+    <string name="permission_crop_rationale" translatable="false">WRITE_EXTERNAL_STORAGE diperlukan izin untuk menyimpan gambar yang dipangkas.</string>
+    <string name="button_allow" translatable="false">Setuju</string>
+    <string name="button_deny" translatable="false">Tidak</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="please_wait" translatable="false">Mohon Tunggu...</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="cancel" translatable="false">Batal</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="intro_1" translatable="false">Daftarkan diri anda, \n jadilah pekerja dan pemberi pekerjaan yang baik.</string>
+    <string name="intro_2" translatable="false">Bentuk grafis dalam membuat suatu halaman web.</string>
+    <string name="intro_3" translatable="false">Hire the best Photographer &amp; create your moment.</string>
+    <string name="internet_concation" translatable="false">Harap aktifkan koneksi internet Anda.</string>
+    <string name="server_error" translatable="false">Tidak ada koneksi internet.</string>
+    <string name="closeMsg" translatable="false">Apa Anda yakin ingin tutup Crative Apps?</string>
+    <string name="yes" translatable="false">Ya</string>
+    <string name="no" translatable="false">Tidak</string>
+    <string name="jobs_completed" translatable="false">Kerjaan Selesai</string>
+    <string name="completion" translatable="false">% Selesai</string>
+    <string name="hr_add_on" translatable="false">/Jam</string>
+    <string name="fixed_rate_add_on" translatable="false">Tetap</string>
+    <string name="reviews" translatable="false">ULASAN(</string>
+    <string name="book_artist" translatable="false">Pesan Pelamar</string>
+    <string name="book_msg" translatable="false">Anda yakin untuk memesan</string>
+    <string name="chats" translatable="false">Chat</string>
+    <string name="val_comment" translatable="false">Masukan Komentar</string>
+    <string name="take_image" translatable="false">System : Ambil gambar dengan</string>
+    <string name="select_picture" translatable="false">Pilih Foto</string>
+    <string name="val_des" translatable="false">Silakan masukan deskripsi</string>
+    <string name="val_address" translatable="false">Silakan pilih alamat</string>
+    <string name="val_title" translatable="false">"Silahkan masukan judul "</string>
+    <string name="val_description" translatable="false">Silakan masukan deskripsi</string>
+    <string name="select_category" translatable="false">Pilih Kategori</string>
+    <string name="val_email" translatable="false">Silakan Alamat Email</string>
+    <string name="location_enabled" translatable="false">Tidak bisa mendapatkan lokasi Pastikan lokasi diaktifkan pada perangkat</string>
+    <string name="artist_here" translatable="false">Pelamar Disini</string>
+    <string name="my_bookings" translatable="false">Pesanan Saya</string>
+    <string name="cash_payment" translatable="false">Bayar Tunai</string>
+    <string name="cash_msg" translatable="false">Anda yakin ingin melakukan pembayaran tunai?</string>
+    <string name="val_category" translatable="false">Silakan pilih Kategori</string>
+    <string name="val_price" translatable="false">Silahkan Masukan Harga</string>
+    <string name="val_pass" translatable="false">Katasandi minimal 6 karakter!</string>
+    <string name="val_pass1" translatable="false">Ulangi Katasandi minimal 6 karakter!</string>
+    <string name="val_name" translatable="false">Silakan masukan nama anda</string>
+    <string name="pass_not_match" translatable="false">Katasandi tidak sama</string>
+    <string name="pending" translatable="false">Pending</string>
+    <string name="accepted" translatable="false">Accepted</string>
+    <string name="rejected" translatable="false">Ditolak</string>
+    <string name="completed" translatable="false">Selesai</string>
+    <string name="decline" translatable="false">Ditolak</string>
+    <string name="decline_msg" translatable="false">Apakah Anda yakin ingin menolak janji ini?</string>
+    <string name="waiting_artist" translatable="false">Menunggu Respon Pelamar</string>
+    <string name="request_acc" translatable="false">Permintaan diterima oleh pelamar</string>
+    <string name="invoice_genrate" translatable="false">Tagihan Dibuat</string>
+    <string name="invoice_paid" translatable="false">Tagihan diBayar</string>
+    <string name="work_inpro" translatable="false">Pekerjaan sedang berjalan</string>
+    <string name="booking_with" translatable="false">Pesan Dengan</string>
+    <string name="date" translatable="false">Tanggal:</string>
+    <string name="applied1" translatable="false">Disetujui:</string>
+    <string name="confirm" translatable="false">Dikonfirmasi</string>
+    <string name="complete" translatable="false">Selesai</string>
+    <string name="inprogress" translatable="false">Sedang berjalan</string>
+    <string name="reject" translatable="false">Tolak</string>
+    <string name="reject_msg" translatable="false">Anda yakin ingin menolak aplikasi?</string>
+    <string name="confirm_msg" translatable="false">Anda yakin ingin mengkonfirmasi aplikasi?</string>
+    <string name="complete_msg" translatable="false">Anda yakin ingin menyelesaikan aplikasi?</string>
+    <string name="km" translatable="false">KM dari anda</string>
+    <string name="job_id" translatable="false">ID Pekerjaan:</string>
+    <string name="open" translatable="false">Buka</string>
+    <string name="not_edit_job" translatable="false">Anda tidak dapat mengedit pekerjaan ini karena Pelamar sudah melamar</string>
+    <string name="delete" translatable="false">Hapus</string>
+    <string name="delete_job" translatable="false">Anda yakin ingin hapus pekerjaan?</string>
+    <string name="complete_job" translatable="false">Anda yakin ingin selesaikan kerjaan ini?</string>
+    <string name="service" translatable="false">No. Tagihan #</string>
+    <string name="unpaid" translatable="false">Belum Bayar</string>
+    <string name="paid" translatable="false">Terbayar</string>
+    <string name="duration" translatable="false">Lama:</string>
+    <string name="solve" translatable="false">Dipecahkan</string>
+    <string name="close" translatable="false">Tutup</string>
+    <string name="future_bookings" translatable="false">Pesanan akan datang</string>
+    <string name="all_category" translatable="false">Semua Kategori</string>
+    <string name="get_discount" translatable="false">Kupon</string>
+    <string name="code_copy" translatable="false">Salin Kode</string>
+    <string name="my_code" translatable="false">Halo, ini adalah Kode Referensi saya</string>
+    <string name="opps_share" translatable="false">Opps !! Tampaknya Anda belum menginstal aplikasi berbagi apa pun.</string>
+    <string name="invoice" translatable="false">Tagihan</string>
+    <string name="ic_wallet" translatable="false">Dompet</string>
+    <string name="fabartist" translatable="false">Creative Apps</string>
+    <string name="jobs" translatable="false">Buat Pekerjaan</string>
+    <string name="notification" translatable="false">Pemberitahuan</string>
+    <string name="profile_settings" translatable="false">Atur Profil</string>
+    <string name="female" translatable="false">Wanita</string>
+    <string name="male" translatable="false">Laki - Laki</string>
+    <string name="logout_msg" translatable="false">Yakin ingin keluar?</string>
+    <string name="support" translatable="false">Bantuan</string>
+    <string name="home" translatable="false">Beranda</string>
+    <string name="camera" translatable="false">Kamera</string>
+    <string name="gallery" translatable="false">Galeri</string>
+    <string name="sign_up" translatable="false">Daftar</string>
+    <string name="sign_in" translatable="false">Masuk</string>
+    <string name="applied_job" translatable="false">Pekerjaan</string>
+    <string name="search_by_artist" translatable="false">Cari dari Pelamar</string>
+    <string name="no_application_found" translatable="false">Tidak Ditemukan Pelamar</string>
+    <string name="book_now" translatable="false">PESAN</string>
+    <string name="quick_chat" translatable="false">QUICK CHAT</string>
+    <string name="future_book" translatable="false">Akan Pesan</string>
+    <string name="image_gallery" translatable="false">Galeri Gambar</string>
+    <string name="video_gallery" translatable="false">Video Galeri</string>
+    <string name="no_video_available" translatable="false">Tidak Ada Video</string>
+    <string name="about" translatable="false">About</string>
+    <string name="qualification" translatable="false">Kualifikasi</string>
+    <string name="skills" translatable="false">Kemampuan</string>
+    <string name="products" translatable="false">LAYANAN</string>
+    <string name="privious_work" translatable="false">Pekerjaan Sebelumnya</string>
+    <string name="no_chat_history_found" translatable="false">Tidak Ada Riwayat Chat yang Ditemukan</string>
+    <string name="comment" translatable="false">Komentar</string>
+    <string name="write_your_message" translatable="false">Tulis Pesan Anda</string>
+    <string name="update_job" translatable="false">Ubah Pekerjaan</string>
+    <string name="all_categories" translatable="false">Semua Kategori</string>
+    <string name="title" translatable="false">Judul</string>
+    <string name="address" translatable="false">Address</string>
+    <string name="enter_your_description" translatable="false">Masukan Deskripsi</string>
+    <string name="update_picture" translatable="false">Ubah Gambar</string>
+    <string name="update" translatable="false">Ubah</string>
+    <string name="forgot_password" translatable="false">Lupa Katasandi</string>
+    <string name="email_id" translatable="false">Alamat Email</string>
+    <string name="submit" translatable="false">Kirim</string>
+    <string name="apply_code" translatable="false">Gunakan Code</string>
+    <string name="copy" translatable="false">Salin</string>
+    <string name="invite_friend" translatable="false">Undang Teman</string>
+    <string name="map" translatable="false">Map</string>
+    <string name="no_booking_found" translatable="false">Tidak Ada Pemesanan yang Ditemukan</string>
+    <string name="no_notification_found" translatable="false">Tidak Ada Pemberitahuan</string>
+    <string name="payment" translatable="false">Tambah Dana</string>
+    <string name="work_completed" translatable="false">Pekerjaan telah selesai</string>
+    <string name="write_code_here" translatable="false">Tulis Kode Di Sini</string>
+    <string name="total_amount" translatable="false">Jumlah Total</string>
+    <string name="online_payment" translatable="false">Pembayaran Online</string>
+    <string name="or" translatable="false">Atau</string>
+    <string name="cash_payment1" translatable="false">Bayar Tunai</string>
+    <string name="post_job" translatable="false">Buat Pekerjaan</string>
+    <string name="price" translatable="false">Harga</string>
+    <string name="budget" translatable="false">Biaya</string>
+    <string name="add_picture" translatable="false">Add Picture</string>
+    <string name="post" translatable="false">Buat</string>
+    <string name="profile_picture" translatable="false">Foto Profil</string>
+    <string name="change" translatable="false">Ubah</string>
+    <string name="personal_information" translatable="false">Infromasi Akun</string>
+    <string name="full_name" translatable="false">Nama Lengkap</string>
+    <string name="email_address" translatable="false">Alamat Email</string>
+    <string name="mobile_number" translatable="false">Nomor Handphone</string>
+    <string name="gender" translatable="false">Jenis Kelamin</string>
+    <string name="password_change" translatable="false">Ubah Katasandi</string>
+    <string name="set_address" translatable="false">Ubah Alamat</string>
+    <string name="enter_your_address" translatable="false">Masukan Alamat Lengkap</string>
+    <string name="city" translatable="false">Kota</string>
+    <string name="country" translatable="false">Negara</string>
+    <string name="set_location" translatable="false">Ubah Lokasi</string>
+    <string name="signout" translatable="false">Keluar</string>
+    <string name="promotion" translatable="false">Promosi</string>
+    <string name="apply_code1" translatable="false">Gunakan Kode</string>
+    <string name="email_address1" translatable="false">Alamat Email</string>
+    <string name="enter_password" translatable="false">Masukan Katasandi</string>
+    <string name="forgotten_password" translatable="false">Lupa Katasandi?</string>
+    <string name="didn_t_have_any_account" translatable="false">Belum Punya Akun?</string>
+    <string name="first_name" translatable="false">Nama Lengkap</string>
+    <string name="enter_password_again" translatable="false">Ulangi Katasandi</string>
+    <string name="referal" translatable="false">Masukan Referal Kode</string>
+    <string name="do_you_have_an_account_already" translatable="false">Sudah Punya Akun?</string>
+    <string name="write_review" translatable="false">Tulis Ulasan</string>
+    <string name="your_review" translatable="false">Ulasan Anda*</string>
+    <string name="services_type" translatable="false">Tipe Layanan:</string>
+    <string name="accept" translatable="false">Setuju</string>
+    <string name="reject1" translatable="false">Tidak Setuju</string>
+    <string name="artist_will_soon" translatable="false">Pelamar yang akan datang</string>
+    <string name="complete1" translatable="false">Selesai</string>
+    <string name="edit" translatable="false">Ubah</string>
+    <string name="decline1" translatable="false">Ditolak</string>
+    <string name="cancel_booking" translatable="false">Batal Pesan</string>
+    <string name="working_time" translatable="false">Waktu Kerja</string>
+    <string name="finish_job" translatable="false">Pekerjaan Selesai</string>
+    <string name="delete1" translatable="false">Hapus</string>
+    <string name="pay_now" translatable="false">Bayar Sekarang</string>
+    <string name="review_by" translatable="false">Ulas dari</string>
+    <string name="jobs_done" translatable="false">Kerjaan Selesai</string>
+    <string name="completion1" translatable="false">Penyelesaian</string>
+    <string name="get_your_best_service_from_us" translatable="false">Dapatkan layanan terbaik Anda dari kami</string>
+    <string name="add_title" translatable="false">Tambah Judul</string>
+    <string name="enter_title" translatable="false">Masukan Judul</string>
+    <string name="cancel1" translatable="false">Batal</string>
+    <string name="add" translatable="false">Tambah</string>
+    <string name="save" translatable="false">Simpan</string>
+    <string name="old_password" translatable="false">Katasandi Lama</string>
+    <string name="new_password" translatable="false">Katasandi Baru</string>
+    <string name="confirm_password" translatable="false">Ulangi Katasandi</string>
+    <string name="payment_option" translatable="false">Opsi Pembayaran</string>
+    <string name="select" translatable="false">Pilih</string>
+    <string name="no_appointment_found" translatable="false">Tidak ada janji yang ditemukan</string>
+    <string name="no_artist_found" translatable="false">Tidak ditemukan Pelamar</string>
+    <string name="nearby" translatable="false">Terdekat</string>
+    <string name="discover" translatable="false">Terbaru</string>
+    <string name="search_by_job" translatable="false">Cari dari Judul Pekerjaan</string>
+    <string name="no_jobs_found" translatable="false">Tidak Ada Pekerjaan yang Ditemukan</string>
+    <string name="fit_image" translatable="false">Besar</string>
+    <string name="square" translatable="false">Kotak</string>
+    <string name="free" translatable="false">Bebas</string>
+    <string name="circle" translatable="false">Bulat</string>
+    <string name="circle_square" translatable="false">Bulat dan Kotak</string>
+    <string name="search_by_invoice" translatable="false">Cari Nomor Tagihan</string>
+    <string name="no_history_found" translatable="false">Tidak ada Riwayat</string>
+    <string name="no_ticket_found" translatable="false">Tidak ada tiket bantuan</string>
+    <string name="job_done_for" translatable="false">Pekerjaan Dilakukan Untuk</string>
+
+    <string name="wallet_balance" translatable="false">Dana Dalam Dompet</string>
+    <string name="all" translatable="false">Semua</string>
+    <string name="debit" translatable="false">Ambil Dana</string>
+    <string name="credit" translatable="false">Tambah Dana</string>
+    <string name="money" translatable="false">Tambah Dana</string>
+    <string name="add_money" translatable="false">Tambah Dana</string>
+    <string name="enter_amount" translatable="false">Masukan Dana</string>
+    <string name="val_money" translatable="false">Tolong masukan dana untuk ditambahkan..</string>
+    <string name="pay_by_wallet" translatable="false">Bayar Dengan Dompet</string>
+    <string name="wallet_payment" translatable="false">Bayar dengan Dompet</string>
+    <string name="wallet_msg" translatable="false">Anda yakin ingin melakukan pembayaran dari dompet?</string>
+    <string name="booking" translatable="false">Pesan</string>
+    <string name="select_services" translatable="false">Pilih Layanan</string>
+    <string name="select_date" translatable="false">Pilih Tanggal</string>
+    <string name="enter_place" translatable="false">Masukan Alamat</string>
+    <string name="estimate_time_minutes" translatable="false">Estimasi Waktu (Menit)</string>
+    <string name="val_previous_date" translatable="false">Tidak dapat memilih tanggal sebelumnya</string>
+    <string name="val_time" translatable="false">Silahkan pilih waktu</string>
+    <string name="val_place" translatable="false">Silakan pilih tempat</string>
+    <string name="val_date" translatable="false">Silakan pilih tanggal</string>
+    <string name="val_services" translatable="false">Silahkan pilih layanan</string>
+    <string name="no_service" translatable="false">Tidak ditemukan layanan</string>
+    <string name="no_gallery_found" translatable="false">Tidak Ada Galeri yang Ditemukan</string>
+    <string name="no_reviews_found" translatable="false">Tidak Ditemukan Ulasan</string>
+    <string name="no_privious_found" translatable="false">Tidak Ada Pekerjaan Sebelumnya Ditemukan</string>
+    <string name="no_services_found" translatable="false">Tidak ada layanan</string>
+    <string name="no_data_found" translatable="false">Tidak Ada Data yang Ditemukan</string>
+    <string name="date1" translatable="false">Tangal</string>
+    <string name="google_play_services_error" translatable="false">Layanan Google Play tidak tersedia</string>
+    <string name="val_pass_c" translatable="false">Silakan masukan katasndi 6-13 Karakter!</string>
+    <string name="val_new_pas" translatable="false">Silakan masukan katasandi baru</string>
+    <string name="val_c_pas" translatable="false">Silakan Masukan Konfirmasi Katasandi</string>
+    <string name="val_n_c_pas" translatable="false">Katasandi tidak sama</string>
+    <string name="follow" translatable="false">Mengikuti</string>
+    <string name="followers" translatable="false">Pengikut</string>
+    <string name="terms_of_use" translatable="false">Syarat Pengguna</string>
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="and" translatable="false">dan</string>
+    <string name="agreed" translatable="false">Ya, Saya setuju</string>
+    <string name="invoice_date" translatable="false">Tanggal Tagihan</string>
+    <string name="booking_date" translatable="false">Tanggal Pesan</string>
+    <string name="due_date" translatable="false">Batas tanggal terakhir</string>
+    <string name="subtotal" translatable="false">Jumlah Total</string>
+    <string name="booking_address" translatable="false">Alamat Pemesanan</string>
+    <string name="booking_price" translatable="false">Harga Pemesanan</string>
+    <string name="booking_confirm" translatable="false">Setujui Pesanan</string>
+    <string name="discount" translatable="false">Diskon</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="view_invoice" translatable="false">Lihat Tagihan</string>
+    <string name="no_cate_found" translatable="false">Tidak Ada Kategori yang Ditemukan</string>
+    <string name="write_description" translatable="false">Tulis Deskripsi</string>
+    <string name="tap_to_select_address" translatable="false">Tap untuk pilih alamat</string>
+    <string name="tap_to_select_date" translatable="false">Tap untuk pilih tanggal dan waktu</string>
+    <string name="home_features" translatable="false">Fitur Depan</string>
+    <string name="bookings_and_job" translatable="false">Pesan dan Kerja</string>
+    <string name="personal" translatable="false">Personal dan Keuangan</string>
+    <string name="trms_acc" translatable="false">Harap terima Ketentuan Penggunaan dan Kebijakan Privasi</string>
+    <string name="please_select" translatable="false">Silahkan Pilih</string>
+    <string name="upload_image_first" translatable="false">Anda tidak punya banyak foto untuk menghapusnya.</string>
+    <string name="applied" translatable="false">Setujui</string>
+    <string name="apply_coupon_code" translatable="false">Gunakan Kode Kupon</string>
+    <string name="booking_cancel_msg" translatable="false">Anda yakin ingin batalkan pesanan dengan</string>
+    <string name="booking_info" translatable="false">Info Pesan</string>
+    <string name="todo">TODO</string>
+    <string name="undang_teman_anda_untuk_bergabung_dengan_creative_apps_agar_pekerjaan_lebih_menyenangkan_gunakan_kupon_ini_agar_anda_bisa_mendapatkan_50_potongan_biaya_dari_kami" translatable="false">Undang teman anda untuk bergabung dengan Creative Apps agar pekerjaan lebih menyenangkan, gunakan kupon ini agar anda bisa mendapatkan 20% potongan biaya dari kami.</string>
+</resources>

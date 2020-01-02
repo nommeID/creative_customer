@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26957900862",
+    "firebase_url": "https://creative-8b304.firebaseio.com",
+    "project_id": "creative-8b304",
+    "storage_bucket": "creative-8b304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26957900862:android:2ea6d519927ee4fa90b56f",
+        "android_client_info": {
+          "package_name": "com.nomme.creative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26957900862-u2p97m31f67ndtc2n7rm8s9p8pak1hbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTGMUb7pk5TpNFpa4Sb9zs8yODt5DLMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26957900862-u2p97m31f67ndtc2n7rm8s9p8pak1hbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
